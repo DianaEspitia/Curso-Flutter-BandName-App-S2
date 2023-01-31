@@ -62,10 +62,22 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "js",
+      "rootUri": "file:///Users/dianaespitia/development/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///Users/dianaespitia/development/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/dianaespitia/development/flutter/.pub-cache/hosted/pub.dartlang.org/logging-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "matcher",
@@ -86,14 +98,38 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/dianaespitia/development/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///Users/dianaespitia/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
+      "name": "provider",
+      "rootUri": "file:///Users/dianaespitia/development/flutter/.pub-cache/hosted/pub.dartlang.org/provider-6.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/dianaespitia/development/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "socket_io_client",
+      "rootUri": "file:///Users/dianaespitia/development/flutter/.pub-cache/hosted/pub.dartlang.org/socket_io_client-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "socket_io_common",
+      "rootUri": "file:///Users/dianaespitia/development/flutter/.pub-cache/hosted/pub.dartlang.org/socket_io_common-2.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -146,7 +182,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-01-08T19:54:49.789763Z",
+  "generated": "2023-01-31T12:37:45.558461Z",
   "generator": "pub",
   "generatorVersion": "2.18.6"
 }
